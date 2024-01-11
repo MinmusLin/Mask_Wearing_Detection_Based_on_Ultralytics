@@ -12,4 +12,4 @@ A project of mask-wearing detection based on Ultralytics.
 
 ## 文档更新日期
 
-2023年1月11日
+2024年1月11日
