@@ -10,6 +10,9 @@ A project of mask-wearing detection based on Ultralytics.
 
 基于 Ultralytics 的口罩佩戴检测项目。
 
+> Relevant project
+> * 同济大学2023年大学生创新创业训练计划项目
+
 ## 文档更新日期
 
 2024年1月11日
