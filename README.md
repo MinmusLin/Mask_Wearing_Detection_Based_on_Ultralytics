@@ -13,6 +13,32 @@ A project of mask-wearing detection based on Ultralytics.
 > Relevant project
 > * 同济大学2023年大学生创新创业训练计划项目
 
+## 项目组成
+
+* [Project Plan Application](20230302_Project_Plan_Application.docx)
+项目计划申请书
+
+* [Opening Defense](20230325_Opening_Defense.pptx)
+项目开题答辩
+
+* [First Quarter Report](20230710_First_Quarter_Report.docx)
+项目第一季度报告
+
+* [Second Quarter Report](20231013_Second_Quarter_Report.docx)
+项目第二季度报告
+
+* [Mid-term Defense](20231105_Mid-term_Defense.pptx)
+项目中期答辩
+
+* [Mid-term Report](20231105_Mid-term_Report.docx)
+项目中期检查报告
+
+* [Third Quarter Report](20240122_Third_Quarter_Report.docx)
+项目第三季度报告
+
+* [Code](code)
+项目相关代码
+
 ## 文档更新日期
 
-2024年1月11日
+2024年1月22日
