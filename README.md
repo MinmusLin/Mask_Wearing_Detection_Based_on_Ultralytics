@@ -12,28 +12,28 @@ A project of mask-wearing detection based on Ultralytics.
 
 ## 项目组成
 
-* [Project Plan Application](20230302_Project_Plan_Application.docx)
+* [Project Plan Application](20230302_Project_Plan_Application.pdf)
 项目计划申请书
 
 * [Opening Defense](20230325_Opening_Defense.pptx)
 项目开题答辩
 
-* [First Quarter Report](20230710_First_Quarter_Report.docx)
+* [First Quarter Report](20230710_First_Quarter_Report.pdf)
 项目第一季度报告
 
-* [Second Quarter Report](20231013_Second_Quarter_Report.docx)
+* [Second Quarter Report](20231013_Second_Quarter_Report.pdf)
 项目第二季度报告
 
 * [Mid-term Defense](20231105_Mid-term_Defense.pptx)
 项目中期答辩
 
-* [Mid-term Report](20231105_Mid-term_Report.docx)
+* [Mid-term Report](20231105_Mid-term_Report.pdf)
 项目中期检查报告
 
-* [Third Quarter Report](20240122_Third_Quarter_Report.docx)
+* [Third Quarter Report](20240122_Third_Quarter_Report.pdf)
 项目第三季度报告
 
-* [Fourth Quarter Report](20240301_Fourth_Quarter_Report.docx)
+* [Fourth Quarter Report](20240301_Fourth_Quarter_Report.pdf)
 项目第四季度报告
 
 * [Code](code)
@@ -41,4 +41,4 @@ A project of mask-wearing detection based on Ultralytics.
 
 ## 文档更新日期
 
-2024年3月3日
+2024年3月4日
