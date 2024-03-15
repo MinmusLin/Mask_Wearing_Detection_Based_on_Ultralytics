@@ -39,9 +39,15 @@ A project of mask-wearing detection based on Ultralytics.
 * [Fourth Quarter Report](20240301_Fourth_Quarter_Report.pdf)
 项目第四季度报告
 
+* [Final Report](20240315_Final_Report.pdf)
+项目结题报告
+
+* [Final Defense](20240322_Final_Defense.pptx)
+项目结题答辩
+
 * [Code](code)
 项目相关代码
 
 ## 文档更新日期
 
-2024年3月10日
+2024年3月15日
