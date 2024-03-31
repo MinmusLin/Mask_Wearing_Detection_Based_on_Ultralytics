@@ -13,6 +13,22 @@ A project of mask-wearing detection based on Ultralytics.
 > ***Relevant project***
 > * 同济大学2023年大学生创新创业训练计划项目
 
+### Research Background
+
+Since the COVID-19 pandemic, correctly and properly wearing masks has been a primary and effective method to block the transmission of the virus. This project is based on the YOLOv8 object detection algorithm to establish an access control system for detecting mask wearing and its compliance, helping to monitor mask wearing and its appropriateness, thus aiding in response to potential future pandemic situations.
+
+### Research Process
+
+Through the initial phase of reading papers and researching materials, the project members gained a preliminary understanding of the YOLO model principles; in the second phase, the team constructed the project model and selected some open-source datasets for initial training, successfully completing a binary classification for mask wearing detection; in the third phase, the team attempted to expand the dataset by adding images of improperly worn masks and conducted manual labeling, while also adjusting model parameters to make the prediction results more accurate; finally, in the fourth phase, the team evaluated the experimental data and summarized the project findings.
+
+### Research Outcomes
+
+The team, based on the currently mature object detection model (YOLOv8), designed an access control detection system for mask wearing with high accuracy and real-time capabilities, suitable for real-time mask wearing detection applications.
+
+By using our own optimized training dataset, which includes images of mask wearing in various scenarios, we achieved the access control detection system's functionality to detect whether a mask is worn and whether it is worn correctly. Innovative designs were implemented regarding the standard of mask wearing, and combined with the detection results, commands on whether to grant access are issued.
+
+This project can be applied to campuses, stations, and other scenarios with high foot traffic and complex environments, aimed at reducing labor costs and aiding in pandemic prevention.
+
 ### 研究背景
 
 自新冠肺炎疫情后，正确规范佩戴口罩是阻断疫情传播的主要途径和有效方法。本项目基于YOLOv8 目标检测算法来建立门禁检测口罩佩戴系统，帮助检测口罩佩戴及佩戴是否规范，有助于应对未来可能的疫情情况。
@@ -66,4 +82,4 @@ A project of mask-wearing detection based on Ultralytics.
 
 ## 文档更新日期
 
-2024年3月21日
+2024年3月31日
