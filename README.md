@@ -77,9 +77,12 @@ This project can be applied to campuses, stations, and other scenarios with high
 * [Final Defense](20240322_Final_Defense.pptx)
 项目结题答辩
 
+* [Business Plan](20240403_Business_Plan.pdf)
+商业策划书
+
 * [Code](code)
 项目相关代码
 
 ## 文档更新日期
 
-2024年3月31日
+2024年4月3日
