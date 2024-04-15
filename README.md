@@ -80,9 +80,9 @@ This project can be applied to campuses, stations, and other scenarios with high
 * [Business Plan](20240403_Business_Plan.pdf)
 商业策划书
 
-* [Code](code)
+* [Code](Code)
 项目相关代码
 
 ## 文档更新日期
 
-2024年4月3日
+2024年4月15日
