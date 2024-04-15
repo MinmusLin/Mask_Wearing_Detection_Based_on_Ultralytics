@@ -80,8 +80,31 @@ This project can be applied to campuses, stations, and other scenarios with high
 * [Business Plan](20240403_Business_Plan.pdf)
 商业策划书
 
-* [Code](Code)
-项目相关代码
+* [Dataset](Dataset)
+数据集
+
+* [Results](Results)
+模型训练结果
+
+## 模型训练与检测代码
+
+* 模型训练代码
+
+  ```python
+  from ultralytics import YOLO
+
+  model = YOLO('yolov8n.pt')
+  model.train(data='Dataset/data.yaml', workers=0, epochs=100, batch=16)
+  ```
+
+* 模型检测代码
+
+  ```python
+  from ultralytics import YOLO
+
+  yolo = YOLO('Train/weights/best.pt', 'detect')
+  result = yolo(source=0, show=True)
+  ```
 
 ## 文档更新日期
 
