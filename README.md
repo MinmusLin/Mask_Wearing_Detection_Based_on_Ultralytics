@@ -77,6 +77,9 @@ This project can be applied to campuses, stations, and other scenarios with high
 * [Final Defense](20240322_Final_Defense.pptx)
 项目结题答辩
 
+* [SITP Acceptance Results Announcement](20240323_SITP_Acceptance_Results_Announcement.pdf)
+2024年电子与信息工程学院大学生创新训练项目结题验收结果公示
+
 * [Business Plan](20240403_Business_Plan.pdf)
 商业策划书
 
@@ -108,4 +111,4 @@ This project can be applied to campuses, stations, and other scenarios with high
 
 ## 文档更新日期
 
-2024年4月15日
+2024年4月17日
