@@ -83,9 +83,6 @@ This project can be applied to campuses, stations, and other scenarios with high
 * [Certificate](Certificate.pdf)
 校级大学生创新创业训练计划结题证书
 
-* [Business Plan](20240403_Business_Plan.pdf)
-商业策划书
-
 * [Dataset](Dataset)
 数据集
 
@@ -114,4 +111,4 @@ This project can be applied to campuses, stations, and other scenarios with high
 
 ## 文档更新日期
 
-2024年4月24日
+2024年9月2日
