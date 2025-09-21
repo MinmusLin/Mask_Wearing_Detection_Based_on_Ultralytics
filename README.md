@@ -1,19 +1,13 @@
 # Access Control Mask Detection System
 
-## 项目名称
-
-Access_Control_Mask_Detection_System
-
-## 项目简介
-
 Access control mask detection system.
 
 门禁检测口罩佩戴系统。
 
 > ***Relevant project***
-> * 同济大学2023年大学生创新创业训练计划项目
+> * 同济大学 2023 年大学生创新创业训练计划项目
 
-## 项目组成
+## 仓库组成
 
 * [Dataset](Dataset)
 数据集
@@ -53,27 +47,3 @@ Access control mask detection system.
 
 * [Certificate](Certificate.pdf)
 校级大学生创新创业训练计划结题证书
-
-## 模型训练与检测代码
-
-* 模型训练代码
-
-  ```python
-  from ultralytics import YOLO
-
-  model = YOLO('yolov8n.pt')
-  model.train(data='Dataset/data.yaml', workers=0, epochs=100, batch=16)
-  ```
-
-* 模型检测代码
-
-  ```python
-  from ultralytics import YOLO
-
-  yolo = YOLO('Train/weights/best.pt', 'detect')
-  result = yolo(source=0, show=True)
-  ```
-
-## 文档更新日期
-
-2025年3月21日
